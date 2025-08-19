@@ -10,8 +10,8 @@
 
 |Cor          |Código        |Variante (hover/border) |
 |-------------|--------------|------------------------|
-|Azul         |#7ABCCD       |#67A4B3                 |
-|Marrom       |#726157       |#49403B                 |
+|Azul         |#7ABCCD       |brightness(.85)         |
+|Marrom       |#726157       |brightness(.85)         |
 |Bege         |#F1ECE0       |                        |
 |Cinza        |#EEEEEE       |#D1D5DC (gray-300)      |
 
@@ -57,7 +57,7 @@
 ### Botões
 **➝ Arredondado**
 - border-radius: 25px
-- padding: 14px 32px
+- padding: 8px 32px
 
 ### Cards
 **➝ História de adoção**
@@ -76,8 +76,8 @@
 - padding: 5px 10px
 
 ### Ícones
-- **Geral -** width/height: 35px
-- **Card dos pets -** width/height: 25px
+- **Geral -** width/height: 24px
+- **Card dos pets -** width/height: -
 
 <br>
 
