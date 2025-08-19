@@ -54,12 +54,12 @@
 ### Estrutura do commit:
 -   “`tipo`: mensagem”
 
-Escreva a mensagem no imperativo (criar, mudar, adicionar), no sentido de dizer o que o commit fará se for aplicado. Pense na frase **“Se aplicado, esse commit irá (mensagem)”**. Exemplo:
+Escreva a mensagem no passado (adicionado, criado), dê preferência a mensagens pequenas e explicativas. Exemplo:
 
--   “`feat`: adicionar página de login”
--   “Se aplicado, esse commit irá adicionar página de login”
+-   “`feat`: página de login adicionada”
+-   “`build`: dependência react-router adicionada”
 
-Dê preferência a mensagens pequenas e explicativas.
+
 
 ### Tipos:
 O tipo é responsável por nos dizer qual o tipo de alteração ou iteração está sendo feita. Das regras da convenção, temos os seguintes tipos:
