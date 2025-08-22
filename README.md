@@ -8,12 +8,14 @@
 
 ## 🎨 Cores
 
-|Cor          |Código        |Variante (hover/border) |
-|-------------|--------------|------------------------|
-|Azul         |#7ABCCD       |brightness(.85)         |
-|Marrom       |#726157       |brightness(.85)         |
-|Bege         |#F1ECE0       |                        |
-|Cinza        |#EEEEEE       |#D1D5DC (gray-300)      |
+|Cor               |Código            |Variante (hover) |
+|------------------|------------------|------------------------|
+|Azul (blue)       |#7ABCCD           |brightness(.85)         |
+|Marrom (brown)    |#726157           |                        |
+|Bege (sand)       |#F1ECE0           |                        |
+|Cinza (lightgray) |#EEEEEE           |                        |
+|Cinza escuro      |#D1D5DC (gray-300)|                        |
+|Vermelho          |#FF6467 (red-400) |                        |
 
 
 
@@ -30,7 +32,7 @@
 |H1                    |Tilt Warp          |3rem (48px)   |Marrom    |
 |H2                    |Raleway - Semibold |1.8rem (28px) |-         |
 |H2 (Cuidados e dicas) |Raleway - Bold     |1.9rem (30px) |-         |
-|H3                    |                   |              |          |
+|H3                    |Raleway - Bold     |1.5rem (24px) |-         |
 |H4                    |                   |              |          |
 |H5                    |                   |              |          |
 |Links (texto)         |Raleway - Semibold |-             |Marrom    |
@@ -51,6 +53,11 @@
 - **Container Login -** width: 35vw (aproximadamente, necessário testar)
 - **Container Cadastro -** width: 55vw (aproximadamente, necessário testar)
 
+### Página de Cuidados e dicas
+- **Sections -** padding: 2rem
+- **Imagem -** max-width: 420px
+- 
+
 ### Header
 - max-width: 1100px
 - padding: 2rem
@@ -59,6 +66,12 @@
 **➝ Arredondado**
 - border-radius: 25px
 - padding: 8px 32px
+
+**➝ Círculo (com ícone)**
+- border-radius: 50%
+- border: 3px solid -
+- padding: 8px
+- width/height: 60px
 
 ### Cards
 **➝ História de adoção**
@@ -70,9 +83,30 @@
 	- border-radius: 50%  
 	- width/height: 130px
 
+ **➝ Página inicial**
+- border-radius: 15px 15px 20px 20px
+- padding: 20px
+- max-width: 250px
+- **Imagem:**
+	- border-radius: 10px 10px 15px 15px  
+	- width: 210px
+   	- height: 230px
+
+**➝ Perfil do pet**
+- border-radius: 15px 15px 20px 20px
+- padding: 20px
+- max-width: 360px
+- **Imagem:**
+	- border-radius: 10px 10px 15px 15px  
+	- width: 325px
+ 	- height: 345px
+- **Imagem menor:**
+    - border-radius: 5px
+    - width/height: 90px
+
 ### Inputs
 **➝ Login/Cadastro**
-- border: 1px solid #D1D5DC
+- border: 1px solid gray-300
 - border-radius: 5px
 - padding: 5px 10px
 
@@ -86,9 +120,19 @@
 💡**Dica:** se tiver dúvidas em algum espaçamento (interno/padding ou externo), no arquivo do Figma é possível verificar a distância entre um elemento e outro. Basta clicar em um dos elementos e posicionar o mouse em cima do outro, enquanto pressiona a tecla alt. A distância irá aparecer em um quadradinho vermelho, em pixels.
 
 ### Página de Histórias
-- **Espaço entre cards -** gap: 2.5rem
+- **Espaço entre cards -** gap: 1.5rem (24px)
+
+### Página de Cuidados e dicas
+- **Espaço entre sections -** gap: 2.5rem (40px)
+- **Espaço interno da header da matéria -** gap: 2rem (32px)
 
 ### Login e Cadastro
-- **Espaço entre elementos -** gap: 2rem
+- **Espaço entre elementos -** gap: 2rem (32px)
 - **Espaço interno do form e section -** gap: 18px
-- **Margin da label -** margin-bottom: 10px 
+- **Espaço entre colunas do form (cadastro) -** gap: 30px
+- **Margin da label -** margin-bottom: 10px
+
+### Perfil do pet
+- **Espaço entre card e texto -** gap: 2.5rem (40px)
+- **Espaço sections de texto -** gap: 4rem (64px)
+
