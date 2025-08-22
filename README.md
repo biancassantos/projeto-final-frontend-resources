@@ -4,6 +4,10 @@
 
 💡Telas e Style Guide podem ser encontrados no [Figma do Projeto](https://www.figma.com/design/fYLYoC2BEAbZPjH57wbrDt/Projeto-Final?node-id=0-1&t=3YcQFc7vRJmnprGP-1).
 
+💡Site do [React Icons](https://react-icons.github.io/react-icons/) para pesquisar ícones e seus nomes/imports (os nomes dos ícones estão em inglês).
+
+💡Documentação do [Tailwindcss](https://tailwindcss.com/docs/installation/using-vite) para pesquisar classes e ver exemplos. Se não achar a propriedade na aba esquerda, procure o nome dela no search na parte de cima.
+
 <br>
 
 ## 🎨 Cores
