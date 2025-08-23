@@ -51,20 +51,29 @@
 ### Todas as páginas (exceto Login e Cadastro)
 - **Container -** max-width: 1100px
 - padding: 6rem 2rem
+- **Header marrom -** padding: 64px 32px
 
 ### Página de Login/Cadastro
-- **Container -** padding: 3rem 2rem
+- **Container -** padding: 48px 32px
 - **Container Login -** width: 35vw (aproximadamente, necessário testar)
 - **Container Cadastro -** width: 55vw (aproximadamente, necessário testar)
 
 ### Página de Cuidados e dicas
-- **Sections -** padding: 2rem
+- **Sections -** padding: 32px
 - **Imagem -** max-width: 420px
-- 
+- **Header -** padding: 32px
+- **Containers -** padding: 32px
+
+### Página de Perfil do pet
+- **Container do mapa**
+	- border-radius: 5px
+ 	- padding: 20px
+  - max-width: 490px
+- **Mapa -** max-width: 300px
 
 ### Header
 - max-width: 1100px
-- padding: 2rem
+- padding: 32px
 
 ### Botões
 **➝ Arredondado**
@@ -74,8 +83,8 @@
 **➝ Círculo (com ícone)**
 - border-radius: 50%
 - border: 3px solid -
-- padding: 8px
-- width/height: 60px
+- padding: 3px
+- width/height: 50px
 
 ### Cards
 **➝ História de adoção**
@@ -99,11 +108,11 @@
 **➝ Perfil do pet**
 - border-radius: 15px 15px 20px 20px
 - padding: 20px
-- max-width: 360px
+- max-width: 400px
 - **Imagem:**
 	- border-radius: 10px 10px 15px 15px  
-	- width: 325px
- 	- height: 345px
+	- width: 360px
+ 	- height: 380px
 - **Imagem menor:**
     - border-radius: 5px
     - width/height: 90px
@@ -124,19 +133,23 @@
 💡**Dica:** se tiver dúvidas em algum espaçamento (interno/padding ou externo), no arquivo do Figma é possível verificar a distância entre um elemento e outro. Basta clicar em um dos elementos e posicionar o mouse em cima do outro, enquanto pressiona a tecla alt. A distância irá aparecer em um quadradinho vermelho, em pixels.
 
 ### Página de Histórias
-- **Espaço entre cards -** gap: 1.5rem (24px)
+- **Espaço entre cards -** gap: 24px
 
 ### Página de Cuidados e dicas
-- **Espaço entre sections -** gap: 2.5rem (40px)
-- **Espaço interno da header da matéria -** gap: 2rem (32px)
+- **Espaço entre sections -** gap: 40px
+- **Espaço interno da header da matéria -** gap: 32px
 
 ### Login e Cadastro
-- **Espaço entre elementos -** gap: 2rem (32px)
+- **Espaço entre elementos -** gap: 32px
 - **Espaço interno do form e section -** gap: 18px
 - **Espaço entre colunas do form (cadastro) -** gap: 30px
 - **Margin da label -** margin-bottom: 10px
 
+### Página Inicial
+- **Espaço entre conteúdos e header -** gap: 64px
+- **Espaço entre cards -** gap: 64px
+
 ### Perfil do pet
-- **Espaço entre card e texto -** gap: 2.5rem (40px)
-- **Espaço sections de texto -** gap: 4rem (64px)
+- **Espaço entre card e texto -** gap: 40px
+- **Espaço sections de texto -** gap: 56px
 
