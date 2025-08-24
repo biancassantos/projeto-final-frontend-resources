@@ -12,14 +12,14 @@
 
 ## 🎨 Cores
 
-|Cor               |Código            |Variante (hover) |
-|------------------|------------------|------------------------|
-|Azul (blue)       |#7ABCCD           |brightness(.85)         |
-|Marrom (brown)    |#726157           |                        |
-|Bege (sand)       |#F1ECE0           |                        |
-|Cinza (lightgray) |#EEEEEE           |                        |
-|Cinza escuro      |#D1D5DC (gray-300)|                        |
-|Vermelho          |#FF6467 (red-400) |                        |
+|Cor               |Código            |Variante (hover)   |
+|------------------|------------------|-------------------|
+|Azul (blue)       |#7ABCCD           |#4CAEC7 (darkblue) |
+|Marrom (brown)    |#726157           |#5A4D45 (darkbrown)|
+|Bege (sand)       |#F1ECE0           |                   |
+|Cinza (lightgray) |#EEEEEE           |                   |
+|Cinza escuro      |#D1D5DC (gray-300)|                   |
+|Vermelho          |#FF6467 (red-400) |#DE5457 (darkred)  |
 
 
 
