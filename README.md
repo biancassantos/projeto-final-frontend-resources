@@ -57,6 +57,7 @@
 - **Container -** padding: 48px 32px
 - **Container Login -** width: 35vw (aproximadamente, necessário testar)
 - **Container Cadastro -** width: 55vw (aproximadamente, necessário testar)
+- **Círculo de numeração da etapa -** width/height: 30px
 
 ### Página de Cuidados e dicas
 - **Sections -** padding: 32px
@@ -142,8 +143,12 @@
 ### Login e Cadastro
 - **Espaço entre elementos -** gap: 32px
 - **Espaço interno do form e section -** gap: 18px
-- **Espaço entre colunas do form (cadastro) -** gap: 30px
 - **Margin da label -** margin-bottom: 10px
+- **Espaço entre colunas do form (cadastro) -** gap: 30px
+- **Espaço entre colunas de preferências (cadastro) -** gap: 48px
+- **Espaço entre linhas de preferências (cadastro) -** gap: 24px
+- **Espaço entre input e label (cadastro) -** gap: 10px
+- **Espaço entre elementos da header de etapas (cadastro) -** gap: 12px
 
 ### Página Inicial
 - **Espaço entre conteúdos e header -** gap: 64px
