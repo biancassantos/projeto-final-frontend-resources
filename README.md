@@ -69,6 +69,12 @@
 ### Página de Cadastro de pet
 - **Container -** padding: 40px
 
+### Página de Sobre
+- **Sections -** padding: 80px 32px
+- **Imagens:**
+  - max-width: 300px
+  - max-height: 400px
+
 ### Header
 - max-width: 1100px
 - padding: 32px
@@ -115,6 +121,15 @@
     - border-radius: 5px
     - width/height: 90px
 
+**➝ Página de Sobre**
+- **Card de valores:**
+  - border-radius: 5px
+  - padding: 20px
+  - **Ícone -** width/height: 60px
+- **Card de números:**
+  - border-radius: 5px
+  - padding: 32px 64px
+
 ### Form
 - **Container -** padding: 48px 32px
 - **Container Login -** width: 35vw (aproximadamente, necessário testar)
@@ -160,6 +175,10 @@
 ### Perfil do pet
 - **Espaço entre card e texto -** gap: 40px
 - **Espaço sections de texto -** gap: 56px
+
+### Página de Sobre
+- **Espaçamento entre foto e texto -** gap: 64px
+- **Espaçamento entre cards de valores -** gap: 32px
 
 ### Form
 - **Espaço entre elementos -** gap: 32px
