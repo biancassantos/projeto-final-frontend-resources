@@ -37,7 +37,7 @@
 |H2                    |Raleway - Semibold |1.8rem (28px) |-         |
 |H2 (Cuidados e dicas) |Raleway - Bold     |1.9rem (30px) |-         |
 |H3                    |Raleway - Bold     |1.5rem (24px) |-         |
-|H4                    |                   |              |          |
+|H4                    |Raleway - Bold     |1.25rem (20px)|-         |
 |H5                    |                   |              |          |
 |Links (texto)         |Raleway - Semibold |-             |Marrom    |
 |Label                 |Raleway - Semibold |.9rem (14px)  |Preto     |
