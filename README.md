@@ -171,3 +171,7 @@
 - **Espaço entre elementos da header de etapas -** gap: 12px
 - **Espaço entre header de etapas e o form -** gap: 30px
 - **Espaçamento entre etapas (cadastro de pets) -** gap: 48px
+
+### Footer
+- **Espaço entre seções -** gap: 48px
+- **Espaço entre colunas -** gap: 40px
