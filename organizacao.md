@@ -25,18 +25,21 @@
 ### Arquivos
 - **Componentes:** PascalCase
 - **Configurações, utils, etc:** camelCase
-- Em Inglês (?)
+- Em Inglês
 
 ### Componentes
 - PascalCase
-- Em Inglês (?)
+- Em Inglês
 
 ### Variáveis
 - camelCase
-- Em Inglês (?)
+- Em Inglês
 
 ### Comentários
-- Em Português (?)
+- Em Português
+
+### Rotas
+- Em Português
 
 <br>
 
