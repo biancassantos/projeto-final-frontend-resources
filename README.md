@@ -34,7 +34,7 @@
 |----------------------|-------------------|--------------|----------|
 |H1 (Landing page)     |Tilt Warp          |4rem (64px)   |Marrom    |
 |H1                    |Tilt Warp          |3rem (48px)   |Marrom    |
-|H2                    |Raleway - Semibold |1.8rem (28px) |-         |
+|H2                    |Raleway - Semibold |1.5rem (24px) |-         |
 |H2 (Cuidados e dicas) |Raleway - Bold     |1.9rem (30px) |-         |
 |H3                    |Raleway - Bold     |1.5rem (24px) |-         |
 |H4                    |Raleway - Bold     |1.25rem (20px)|-         |
@@ -42,7 +42,7 @@
 |Links (texto)         |Raleway - Semibold |-             |Marrom    |
 |Label                 |Raleway - Semibold |.9rem (14px)  |Preto     |
 |Botão                 |Raleway - Bold     |1.2rem (20px) |-         |
-|Subtítulo             |Raleway - Semibold |1.5rem (24px) |Preto     |
+|Subtítulo             |Raleway - Semibold |1.2rem (20px) |Preto     |
 |Texto                 |Raleway - Medium   |1rem (16px)   |Preto     |
 
 <br>
