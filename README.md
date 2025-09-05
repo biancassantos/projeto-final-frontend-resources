@@ -74,6 +74,16 @@
 - **Imagens:**
   - max-width: 300px
   - max-height: 400px
+ 
+### Página Minha conta
+- **Container -** border-radius: 5px
+- **Coluna esquerda:**
+  - max-width: 260px
+  - padding: 32px 0px
+  - **Links de abas -** padding: 16px 30px
+- **Coluna direita**
+  - padding: 32px 48px
+  - 
 
 ### Header
 - max-width: 1100px
@@ -130,6 +140,13 @@
   - border-radius: 5px
   - padding: 32px 64px
 
+**➝ Página do Time**
+- width: 300px
+- padding: 24px
+- border-radius: 5px
+- **Imagem:**
+  - width/height: 110px
+
 ### Form
 - **Container -** padding: 48px 32px
 - **Container Login -** width: 35vw (aproximadamente, necessário testar)
@@ -168,7 +185,7 @@
 - **Espaço entre sections -** gap: 40px
 - **Espaço interno da header da matéria -** gap: 32px
 
-### Página Inicial
+### Página Inicial/Favoritos/Meus pets
 - **Espaço entre conteúdos e header -** gap: 64px
 - **Espaço entre cards -** gap: 64px
 
@@ -176,9 +193,17 @@
 - **Espaço entre card e texto -** gap: 40px
 - **Espaço sections de texto -** gap: 56px
 
+### Página Minha conta
+- **Espaço entre links (coluna esquerda) -** gap: 8px
+- **Espaço entre título da aba e sections -** gap: 32px
+- **Espaço entre sections -** gap: 48px
+
 ### Página de Sobre
 - **Espaçamento entre foto e texto -** gap: 64px
 - **Espaçamento entre cards de valores -** gap: 32px
+
+### Página do time
+- **Espaço entre cards -** 64px
 
 ### Form
 - **Espaço entre elementos -** gap: 32px
