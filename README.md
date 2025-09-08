@@ -83,7 +83,12 @@
   - **Links de abas -** padding: 16px 30px
 - **Coluna direita**
   - padding: 32px 48px
-  - 
+
+### Página de Compartilhar história
+- **Container:**
+  - max-width: 500px
+  - padding: 32px
+  - border-radius: 5px
 
 ### Header
 - max-width: 1100px
