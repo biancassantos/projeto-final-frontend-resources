@@ -99,11 +99,16 @@
 - border-radius: 25px
 - padding: 8px 32px
 
-**➝ Círculo (com ícone)**
+**➝ Círculo (Favorito)**
 - border-radius: 50%
 - border: 3px solid -
 - padding: 3px
 - width/height: 50px
+
+**➝ Círculo (Ações do pet)**
+- border-radius: 50%
+- padding: 2px
+- width/height: 40px
 
 ### Cards
 **➝ História de adoção**
@@ -151,6 +156,13 @@
 - border-radius: 5px
 - **Imagem:**
   - width/height: 110px
+
+**➝ Página Meus pets**
+- border-radius: 5px
+- padding: 20px
+- **Imagem:**
+  - border-radius: 5px
+  - width/height: 150px
 
 ### Form
 - **Container -** padding: 48px 32px
@@ -209,6 +221,11 @@
 
 ### Página do time
 - **Espaço entre cards -** 64px
+
+### Página Meus pets
+- **Espaço entre imagem e informações -** 32px
+- **Espaço entre informações -** 12px
+- **Espaço entre cards -** 48px
 
 ### Form
 - **Espaço entre elementos -** gap: 32px
