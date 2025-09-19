@@ -218,6 +218,7 @@
 ### Página de Sobre
 - **Espaçamento entre foto e texto -** gap: 64px
 - **Espaçamento entre cards de valores -** gap: 32px
+- **Espaçamento entre sections -** gap: 40px
 
 ### Página do time
 - **Espaço entre cards -** 64px
