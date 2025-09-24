@@ -9,12 +9,12 @@
   <a href="#resources">Resources</a>
 </p>
 
-## Descrição
+## 📄 Descrição
 O PetConect é um projeto de doação e adoção de animais, que foi desenvolvido como projeto final do curso Desenvolvedor Full Stack Jr. 2025 oferecido pela +praTi e Codifica Edu.
 
 O objetivo do PetConect é conectar pets que estão para adoção com pessoas que desejam adotar, utilizando filtros que se baseiam nas características que essas pessoas desejam no seu novo amigo para proporcionar um "match perfeito".
 
-## Stack
+## 🛠️ Stack
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -26,11 +26,26 @@ O objetivo do PetConect é conectar pets que estão para adoção com pessoas qu
 
 <div align="center">// Imagem</div>
 
-## Guia do usuário
+<br>
 
-## Instalação
+## 🗺️ Guia do usuário
+### Criar conta
 
-## Contribuidores
+### Alterar preferências
+
+### Favoritar pet
+
+### Colocar um pet para adoção
+
+### Se candidatar para adotar um pet
+
+<br>
+
+## ⚙️ Instalação
+
+<br>
+
+## 🌐 Contribuidores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -48,8 +63,9 @@ O objetivo do PetConect é conectar pets que estão para adoção com pessoas qu
   </tbody>
 </table>
 
-## Resources
+<br>
 
+## 🧩 Resources
 ### Imagens
 **➝ Ilustrações**
 - [Vecteezy](https://www.vecteezy.com/)
